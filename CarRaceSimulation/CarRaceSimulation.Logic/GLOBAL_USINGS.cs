@@ -16,17 +16,17 @@ global using CarRaceSimulation;
 //
 //   - Logic   
 global using CarRaceSimulation.Logic;
+global using CarRaceSimulation.Logic.Debug;
+global using CarRaceSimulation.Logic.Enums;
+global using CarRaceSimulation.Logic.Views;
+global using CarRaceSimulation.Logic.Errors;
+global using CarRaceSimulation.Logic.Models;
 global using CarRaceSimulation.Logic.Abstracts;
 global using CarRaceSimulation.Logic.Arguments;
 global using CarRaceSimulation.Logic.Contracts;
-global using CarRaceSimulation.Logic.Controllers;
-global using CarRaceSimulation.Logic.Enums;
-global using CarRaceSimulation.Logic.Extensions;
 global using CarRaceSimulation.Logic.Factories;
-global using CarRaceSimulation.Logic.Models;
-global using CarRaceSimulation.Logic.Views;
-global using CarRaceSimulation.Logic.Errors;
-global using CarRaceSimulation.Logic.Debug;
+global using CarRaceSimulation.Logic.Extensions;
+global using CarRaceSimulation.Logic.Controllers;
 //
 
 
