@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿///   N A M E S P A C E   ///
+namespace CarRaceSimulation.Logic.Factories;
 
-namespace CarRaceSimulation.Logic.Factories
+internal class Factories
 {
-        internal class Factories
-        {
-        }
 }

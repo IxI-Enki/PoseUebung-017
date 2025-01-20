@@ -1,11 +1,11 @@
-﻿namespace CarRaceSimulation.Tests
+﻿///   N A M E S P A C E   ///
+namespace CarRaceSimulation.Tests;
+
+[TestClass]
+public sealed class CarRaceSimulationTests
 {
-        [TestClass]
-        public sealed class CarRaceSimulationTests
+        [TestMethod]
+        public void TestMethod1( )
         {
-                [TestMethod]
-                public void TestMethod1( )
-                {
-                }
         }
 }

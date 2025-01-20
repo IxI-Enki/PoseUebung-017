@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿///   N A M E S P A C E   ///
+namespace CarRaceSimulation.Logic.Enums;
 
-namespace CarRaceSimulation.Logic.Enums
+internal class Enums
 {
-        internal class Enums
-        {
-        }
 }

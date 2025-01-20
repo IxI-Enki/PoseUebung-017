@@ -1,10 +1,13 @@
-﻿namespace CarRaceSimulation.ConApp
+﻿///   global   U S I N G   ///
+global using CarRaceSimulation;
+
+///   N A M E S P A C E   ///
+namespace CarRaceSimulation.ConApp;
+
+internal class Program
 {
-    internal class Program
-    {
-        static void Main(string[] args)
+        static void Main( )
         {
-            Console.WriteLine("Hello, World!");
+                Console.WriteLine( "Hello, World!" );
         }
-    }
 }

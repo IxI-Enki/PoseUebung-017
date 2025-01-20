@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿///   N A M E S P A C E   ///
+namespace CarRaceSimulation.Logic.Controllers;
 
-namespace CarRaceSimulation.Logic.Controllers
+internal class Controllers
 {
-        internal class Controllers
-        {
-        }
 }
